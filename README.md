@@ -5,31 +5,31 @@ No GUI. No fluff. Just pure functionality: add, view, search, edit, and delete c
 
 ---
 
-## 🛠 Features
+## Features
 
-- 📝 Add new contacts  
-- 📄 View all contacts  
-- 🔍 Search by name or phone  
-- ✏️ Edit existing contacts  
-- 🗑️ Delete contacts  
-- 💾 Contacts saved in `storage.json`
+-  Add new contacts  
+-  View all contacts  
+-  Search by name or phone  
+-  Edit existing contacts  
+-  Delete contacts  
+-  Contacts saved in `storage.json`
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 1. Clone the repo
+###  1. Clone the repo
 ```bash
 git clone https://github.com/rev2607/CLI-Contact-Book.git
 cd CLI-Contact-Book
 ```
 
-### ▶️ 2. Run the app
+###  2. Run the app
 ```bash
 python contact_book.py
 ```
 
-## 🧪 Sample Menu
+##  Sample Menu
 ```
 --- Contact Book Menu ---
 1. Add Contact
@@ -40,7 +40,7 @@ python contact_book.py
 6. Exit
 ```
 
-## 📁 File Structure
+##  File Structure
 ```
 .
 ├── contact_book.py    # CLI interaction and main loop
@@ -48,7 +48,7 @@ python contact_book.py
 └── storage.json       # Contact data (auto-created if missing)
 ```
 
-## 📦 Dependencies
+##  Dependencies
 None. 100% built on Python's standard library:
 * `json`
 * `os`
@@ -56,5 +56,5 @@ None. 100% built on Python's standard library:
 
 No need to install anything.
 
-## 👨‍🔧 Built By
+##  Built By
 A developer who prefers clarity over complexity. Designed to be extendable, maintainable. Fork it, ship it, make it yours.
